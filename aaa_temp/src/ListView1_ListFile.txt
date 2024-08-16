@@ -1,0 +1,7 @@
+1^Pazartesi^0^0^0^2
+2^Sali^0^0^0^3
+3^Carsamba^0^0^0^4
+4^Persembe^0^0^0^5
+5^Cuma^0^0^0^6
+6^Cumartesi^0^0^0^0
+7^Pazar^0^0^0^1
